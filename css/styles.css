@@ -1,0 +1,32 @@
+
+.no-margin
+{
+	margin: 0px;
+}
+.no-padding
+{
+	padding: 0px;
+}
+body
+{
+	padding-top: 50px;
+}
+.site-footer
+{
+	background-color: #222;
+	color: #fff;
+	margin-top: 30px;
+	padding-top: 30px;
+}
+
+.btn-default,
+.btn-default:hover,
+.btn-default:focus {
+  color: #333;
+  background-color: #fff;
+  border: 1px solid #fff;
+}
+.customH3
+{
+	background-color: #555;
+}
